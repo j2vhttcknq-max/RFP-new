@@ -1,0 +1,302 @@
+{
+  "generatedAt": "2026-08-27T04:25:40.371Z",
+  "source": "Procurement_tracker-ENC.dat (local)",
+  "sheetName": "Requests",
+  "months": [
+    "2026-07",
+    "2026-08"
+  ],
+  "items": [
+    {
+      "id": "rfp-19",
+      "date": "2026-08-25",
+      "month": "2026-08",
+      "projectName": "Spare parts of controlled silicons, trigger board, RC suppression component for chiller DH4000-4 and OEM on-site repair service",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "220,000",
+      "budgetValue": 220000,
+      "status": "Approved (Single source JCI)",
+      "statusGroup": "Approved",
+      "nextSteps": "Proceed with single source procurement & issue PO to JCI"
+    },
+    {
+      "id": "rfp-17",
+      "date": "2026-08-24",
+      "month": "2026-08",
+      "projectName": "ULA 5301 UPS01 power module spare part and OEM on-site replacement service",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "50,000",
+      "budgetValue": 50000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Single source procurement from Schneider"
+    },
+    {
+      "id": "rfp-18",
+      "date": "2026-08-24",
+      "month": "2026-08",
+      "projectName": "Portable Self Contained Heated Eyewash",
+      "site": "GYA & ULA",
+      "siteTags": [
+        "ULA",
+        "GYA"
+      ],
+      "budgetRaw": "N/A",
+      "budgetValue": null,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure heated eyewash units"
+    },
+    {
+      "id": "rfp-16",
+      "date": "2026-08-19",
+      "month": "2026-08",
+      "projectName": "ULA 5301 UPS01 power module spare part and OEM on-site replacement service",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "58,000",
+      "budgetValue": 58000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Issue PO"
+    },
+    {
+      "id": "rfp-1",
+      "date": "2026-08-18",
+      "month": "2026-08",
+      "projectName": "Spare parts of controlled silicons, trigger board, RC suppression component for chiller DH4000-4 and OEM on-site repair service",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "214000",
+      "budgetValue": 214000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Apply MatchiT & issue PO"
+    },
+    {
+      "id": "rfp-2",
+      "date": "2026-08-18",
+      "month": "2026-08",
+      "projectName": "2026-2027 generator & SCR PPM",
+      "site": "ULA & GYA",
+      "siteTags": [
+        "ULA",
+        "GYA"
+      ],
+      "budgetRaw": "5800000",
+      "budgetValue": 5800000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Proceed with procurement / single source vendor negotiation"
+    },
+    {
+      "id": "rfp-3",
+      "date": "2026-08-18",
+      "month": "2026-08",
+      "projectName": "UPS power module 9850 & OEM labor",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "57319.78",
+      "budgetValue": 57319.78,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure from Schneider"
+    },
+    {
+      "id": "rfp-4",
+      "date": "2026-08-18",
+      "month": "2026-08",
+      "projectName": "Generator EMCP4.3 controller",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "73748.13",
+      "budgetValue": 73748.13,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure from CAT"
+    },
+    {
+      "id": "rfp-12",
+      "date": "2026-08-10",
+      "month": "2026-08",
+      "projectName": "ULA & GYA few panels of Heating trace PPM procurement",
+      "site": "ULA & GYA",
+      "siteTags": [
+        "ULA",
+        "GYA"
+      ],
+      "budgetRaw": "13,000",
+      "budgetValue": 13000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Apply MatchiT & issue PO"
+    },
+    {
+      "id": "rfp-13",
+      "date": "2026-08-10",
+      "month": "2026-08",
+      "projectName": "Garner camera brackets for degausser",
+      "site": "GYA & ULA",
+      "siteTags": [
+        "ULA",
+        "GYA"
+      ],
+      "budgetRaw": "22,000",
+      "budgetValue": 22000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure from Anixter & issue PO"
+    },
+    {
+      "id": "rfp-14",
+      "date": "2026-08-10",
+      "month": "2026-08",
+      "projectName": "Honeywell FACP software upgrade and network card service",
+      "site": "GYA",
+      "siteTags": [
+        "GYA"
+      ],
+      "budgetRaw": "136,140.80",
+      "budgetValue": 136140.8,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Upgrade software & install network card"
+    },
+    {
+      "id": "rfp-15",
+      "date": "2026-08-10",
+      "month": "2026-08",
+      "projectName": "GYA Site Fault repair Spare Parts Purchase",
+      "site": "GYA",
+      "siteTags": [
+        "GYA"
+      ],
+      "budgetRaw": "71,800",
+      "budgetValue": 71800,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure cold machine SCR from JCI, select supplier with lowest bid for remaining parts via comparison"
+    },
+    {
+      "id": "rfp-11",
+      "date": "2026-08-07",
+      "month": "2026-08",
+      "projectName": "Hydrogen & methane detectors replacement",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "150,000",
+      "budgetValue": 150000,
+      "status": "Approved (Single source Vertiv)",
+      "statusGroup": "Approved",
+      "nextSteps": "Issue PO"
+    },
+    {
+      "id": "rfp-10",
+      "date": "2026-07-23",
+      "month": "2026-07",
+      "projectName": "Hazardous Waste (UPS Batteries) Disposal",
+      "site": "GYA & ULA",
+      "siteTags": [
+        "ULA",
+        "GYA"
+      ],
+      "budgetRaw": "N/A",
+      "budgetValue": null,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Vendor disposal"
+    },
+    {
+      "id": "rfp-9",
+      "date": "2026-07-16",
+      "month": "2026-07",
+      "projectName": "2026-2027 generator & SCR PPM",
+      "site": "ULA & GYA",
+      "siteTags": [
+        "ULA",
+        "GYA"
+      ],
+      "budgetRaw": "999,707.2",
+      "budgetValue": 999707.2,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Issue PO"
+    },
+    {
+      "id": "rfp-6",
+      "date": "2026-07-13",
+      "month": "2026-07",
+      "projectName": "REF615 multiple relay",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "70,000",
+      "budgetValue": 70000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure from ABB"
+    },
+    {
+      "id": "rfp-7",
+      "date": "2026-07-13",
+      "month": "2026-07",
+      "projectName": "Generator EMCP4.3 controller",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "80,000",
+      "budgetValue": 80000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure from CAT"
+    },
+    {
+      "id": "rfp-8",
+      "date": "2026-07-13",
+      "month": "2026-07",
+      "projectName": "UPS power module 9850 & OEM labor",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "60,000",
+      "budgetValue": 60000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure from Schneider"
+    },
+    {
+      "id": "rfp-5",
+      "date": "2026-07-09",
+      "month": "2026-07",
+      "projectName": "Waste propylene glycol treatment",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "45,000",
+      "budgetValue": 45000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Dispose"
+    }
+  ]
+}
