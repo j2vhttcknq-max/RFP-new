@@ -1,0 +1,156 @@
+{
+  "generatedAt": "2026-08-27T04:25:40.811Z",
+  "source": "Team_C&C.xlsx",
+  "items": [
+    {
+      "actionId": "ACT-2025-10-001",
+      "month": "2025/10",
+      "module": "Operation",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "BM26 Capex item list have some concerns from the IS team leadership.",
+      "actionDetail": "",
+      "text": "BM26 Capex item list have some concerns from the IS team leadership."
+    },
+    {
+      "actionId": "ACT-2025-11-001",
+      "month": "2025/11",
+      "module": "Operation",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "Some Peak in ULA power unit price. (Egineering team are doing RCA)",
+      "actionDetail": "",
+      "text": "Some Peak in ULA power unit price. (Egineering team are doing RCA)"
+    },
+    {
+      "actionId": "ACT-2025-12-001",
+      "month": "2025/12",
+      "module": "Power&Water",
+      "rag": "AMBER",
+      "priority": "P0",
+      "actionTitle": "Align tariff smoothing plan for CN DC site",
+      "actionDetail": "Confirm tariff drivers, expected uplift band, and short-term mitigation levers; align with Finance on accounting treatment.",
+      "text": "Align tariff smoothing plan for CN DC site"
+    },
+    {
+      "actionId": "ACT-2025-12-002",
+      "month": "2025/12",
+      "module": "Operation",
+      "rag": "GREEN",
+      "priority": "P1",
+      "actionTitle": "Some Peak in ULA power unit price. (RCA syning among team teams)",
+      "actionDetail": "",
+      "text": "Some Peak in ULA power unit price. (RCA syning among team teams)"
+    },
+    {
+      "actionId": "ACT-2025-12-003",
+      "month": "2025/12",
+      "module": "Operation",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "Align tariff smoothing plan for CN DC site.(Mitigation actions has been taken)",
+      "actionDetail": "",
+      "text": "Align tariff smoothing plan for CN DC site.(Mitigation actions has been taken)"
+    },
+    {
+      "actionId": "ACT-2025-12-004",
+      "month": "2025/12",
+      "module": "Operation",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "Water container instllations and rectification.（Concerns from Engineer team)",
+      "actionDetail": "",
+      "text": "Water container instllations and rectification.（Concerns from Engineer team)"
+    },
+    {
+      "actionId": "ACT-2026-01-001",
+      "month": "2026/01",
+      "module": "Power&Water",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "GYA power unit price increase from 0.53 to 0.57.(Escalated to Leadershop team)",
+      "actionDetail": "",
+      "text": "GYA power unit price increase from 0.53 to 0.57.(Escalated to Leadershop team)"
+    },
+    {
+      "actionId": "ACT-2026-01-002",
+      "month": "2026/01",
+      "module": "Consturction",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "BM26 items is still in reviewing.(Pending IS leadership final approval)",
+      "actionDetail": "",
+      "text": "BM26 items is still in reviewing.(Pending IS leadership final approval)"
+    },
+    {
+      "actionId": "ACT-2026-01-003",
+      "month": "2026/01",
+      "module": "Operation",
+      "rag": "RED",
+      "priority": "P1",
+      "actionTitle": "ULA high priority incidents.(HP system water leakage)",
+      "actionDetail": "",
+      "text": "ULA high priority incidents.(HP system water leakage)"
+    },
+    {
+      "actionId": "ACT-2026-02-001",
+      "month": "2026/02",
+      "module": "Power&Water",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "GYA power unit price increase negotiations.(PSB willkeep pervious unice price.)",
+      "actionDetail": "",
+      "text": "GYA power unit price increase negotiations.(PSB willkeep pervious unice price.)"
+    },
+    {
+      "actionId": "ACT-2026-02-002",
+      "month": "2026/02",
+      "module": "Consturction",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "BM26 items is finally approved by IS leadership.",
+      "actionDetail": "",
+      "text": "BM26 items is finally approved by IS leadership."
+    },
+    {
+      "actionId": "ACT-2026-02-003",
+      "month": "2026/02",
+      "module": "Operation",
+      "rag": "RED",
+      "priority": "P1",
+      "actionTitle": "ULA set temperary change frozen for OPS rectifications.",
+      "actionDetail": "",
+      "text": "ULA set temperary change frozen for OPS rectifications."
+    },
+    {
+      "actionId": "ACT-2026-03-001",
+      "month": "2026/03",
+      "module": "Power&Water",
+      "rag": "GREEN",
+      "priority": "P1",
+      "actionTitle": "HP system retrification pipes and valves retrification are strted. (Moriof FAT)",
+      "actionDetail": "",
+      "text": "HP system retrification pipes and valves retrification are strted. (Moriof FAT)"
+    },
+    {
+      "actionId": "ACT-2026-03-002",
+      "month": "2026/03",
+      "module": "Consturction",
+      "rag": "AMBER",
+      "priority": "P1",
+      "actionTitle": "BM26 detail scope syncing is starting among Engineering, Cx, Ops,busssine partner teams.",
+      "actionDetail": "",
+      "text": "BM26 detail scope syncing is starting among Engineering, Cx, Ops,busssine partner teams."
+    },
+    {
+      "actionId": "ACT-2026-03-003",
+      "month": "2026/03",
+      "module": "Operation",
+      "rag": "RED",
+      "priority": "P1",
+      "actionTitle": "ULA set temperary change frozen for OPS rectifications.（Continuing)",
+      "actionDetail": "",
+      "text": "ULA set temperary change frozen for OPS rectifications.（Continuing)"
+    }
+  ]
+}
