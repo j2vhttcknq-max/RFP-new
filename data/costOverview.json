@@ -1,0 +1,3968 @@
+{
+  "generatedAt": "2026-08-27T04:25:39.526Z",
+  "source": "CO.enc.dat (local)",
+  "rows": [
+    {
+      "month": "2022-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 1769670,
+      "quantity": null
+    },
+    {
+      "month": "2022-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 880.0000000000001,
+      "quantity": null
+    },
+    {
+      "month": "2022-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 1722867.83,
+      "quantity": null
+    },
+    {
+      "month": "2022-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.445969100745496,
+      "quantity": null
+    },
+    {
+      "month": "2022-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 0.4770647537842911,
+      "quantity": null
+    },
+    {
+      "month": "2022-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 1634520,
+      "quantity": null
+    },
+    {
+      "month": "2022-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1188,
+      "quantity": null
+    },
+    {
+      "month": "2022-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 1702785.51,
+      "quantity": null
+    },
+    {
+      "month": "2022-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4533700876501661,
+      "quantity": null
+    },
+    {
+      "month": "2022-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1893.6,
+      "quantity": null
+    },
+    {
+      "month": "2022-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 1994920,
+      "quantity": null
+    },
+    {
+      "month": "2022-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2846.8,
+      "quantity": null
+    },
+    {
+      "month": "2022-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 1879585.93,
+      "quantity": null
+    },
+    {
+      "month": "2022-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.455608596901179,
+      "quantity": null
+    },
+    {
+      "month": "2022-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3304.8,
+      "quantity": null
+    },
+    {
+      "month": "2022-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2152860,
+      "quantity": null
+    },
+    {
+      "month": "2022-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2125.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2073142.18,
+      "quantity": null
+    },
+    {
+      "month": "2022-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4742035801859171,
+      "quantity": null
+    },
+    {
+      "month": "2022-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4521.6,
+      "quantity": null
+    },
+    {
+      "month": "2022-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2316100,
+      "quantity": null
+    },
+    {
+      "month": "2022-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1601.6,
+      "quantity": null
+    },
+    {
+      "month": "2022-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2487244.66,
+      "quantity": null
+    },
+    {
+      "month": "2022-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4806827187693259,
+      "quantity": null
+    },
+    {
+      "month": "2022-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 6501.6,
+      "quantity": null
+    },
+    {
+      "month": "2022-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3307200,
+      "quantity": null
+    },
+    {
+      "month": "2022-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 998.8000000000001,
+      "quantity": null
+    },
+    {
+      "month": "2022-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2409174.8,
+      "quantity": null
+    },
+    {
+      "month": "2022-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4864425437746333,
+      "quantity": null
+    },
+    {
+      "month": "2022-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4543.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2559370,
+      "quantity": null
+    },
+    {
+      "month": "2022-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3440.8,
+      "quantity": null
+    },
+    {
+      "month": "2022-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2467491.6,
+      "quantity": null
+    },
+    {
+      "month": "2022-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4920968282331919,
+      "quantity": null
+    },
+    {
+      "month": "2022-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 5025.6,
+      "quantity": null
+    },
+    {
+      "month": "2022-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-08-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2873660,
+      "quantity": null
+    },
+    {
+      "month": "2022-08-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-08-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 5997.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-08-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2022-08-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2508177.99,
+      "quantity": null
+    },
+    {
+      "month": "2022-08-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4862166941937285,
+      "quantity": null
+    },
+    {
+      "month": "2022-08-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4788,
+      "quantity": null
+    },
+    {
+      "month": "2022-08-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-09-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2621380,
+      "quantity": null
+    },
+    {
+      "month": "2022-09-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-09-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2860,
+      "quantity": null
+    },
+    {
+      "month": "2022-09-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-09-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2370651.88,
+      "quantity": null
+    },
+    {
+      "month": "2022-09-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4917711922068439,
+      "quantity": null
+    },
+    {
+      "month": "2022-09-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4723.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-09-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-10-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2603890,
+      "quantity": null
+    },
+    {
+      "month": "2022-10-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-10-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 523.6,
+      "quantity": null
+    },
+    {
+      "month": "2022-10-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-10-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2313550.52,
+      "quantity": null
+    },
+    {
+      "month": "2022-10-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4465072489500988,
+      "quantity": null
+    },
+    {
+      "month": "2022-10-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2188.8,
+      "quantity": null
+    },
+    {
+      "month": "2022-10-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-11-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2511140,
+      "quantity": null
+    },
+    {
+      "month": "2022-11-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-11-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1073.6,
+      "quantity": null
+    },
+    {
+      "month": "2022-11-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-11-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2425844.18,
+      "quantity": null
+    },
+    {
+      "month": "2022-11-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.457002837141307,
+      "quantity": null
+    },
+    {
+      "month": "2022-11-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1850.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-11-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2022-12-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2734800,
+      "quantity": null
+    },
+    {
+      "month": "2022-12-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2022-12-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1122,
+      "quantity": null
+    },
+    {
+      "month": "2022-12-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2022-12-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2616190.19,
+      "quantity": null
+    },
+    {
+      "month": "2022-12-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4445190487032405,
+      "quantity": null
+    },
+    {
+      "month": "2022-12-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3672,
+      "quantity": null
+    },
+    {
+      "month": "2022-12-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3509660,
+      "quantity": null
+    },
+    {
+      "month": "2023-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 251,
+      "quantity": null
+    },
+    {
+      "month": "2023-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.403508771929824,
+      "quantity": null
+    },
+    {
+      "month": "2023-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2485084.93,
+      "quantity": null
+    },
+    {
+      "month": "2023-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4004481207781159,
+      "quantity": null
+    },
+    {
+      "month": "2023-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3204,
+      "quantity": null
+    },
+    {
+      "month": "2023-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2989730,
+      "quantity": null
+    },
+    {
+      "month": "2023-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 400.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2023-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 2994860.96,
+      "quantity": null
+    },
+    {
+      "month": "2023-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4667102428564305,
+      "quantity": null
+    },
+    {
+      "month": "2023-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 8280,
+      "quantity": null
+    },
+    {
+      "month": "2023-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3534570,
+      "quantity": null
+    },
+    {
+      "month": "2023-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 523.6,
+      "quantity": null
+    },
+    {
+      "month": "2023-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3209569.97,
+      "quantity": null
+    },
+    {
+      "month": "2023-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.506139134370348,
+      "quantity": null
+    },
+    {
+      "month": "2023-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 5486.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4251130,
+      "quantity": null
+    },
+    {
+      "month": "2023-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1038.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3666738.22,
+      "quantity": null
+    },
+    {
+      "month": "2023-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4543890923961535,
+      "quantity": null
+    },
+    {
+      "month": "2023-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 7336.8,
+      "quantity": null
+    },
+    {
+      "month": "2023-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4810280,
+      "quantity": null
+    },
+    {
+      "month": "2023-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 976.8,
+      "quantity": null
+    },
+    {
+      "month": "2023-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2023-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4401755.75,
+      "quantity": null
+    },
+    {
+      "month": "2023-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4320258395624931,
+      "quantity": null
+    },
+    {
+      "month": "2023-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 7624.8,
+      "quantity": null
+    },
+    {
+      "month": "2023-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4534680,
+      "quantity": null
+    },
+    {
+      "month": "2023-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1056,
+      "quantity": null
+    },
+    {
+      "month": "2023-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3496729.5,
+      "quantity": null
+    },
+    {
+      "month": "2023-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4994414592760181,
+      "quantity": null
+    },
+    {
+      "month": "2023-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4845.6,
+      "quantity": null
+    },
+    {
+      "month": "2023-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4870170,
+      "quantity": null
+    },
+    {
+      "month": "2023-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 792,
+      "quantity": null
+    },
+    {
+      "month": "2023-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4411509.84,
+      "quantity": null
+    },
+    {
+      "month": "2023-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4805482518823201,
+      "quantity": null
+    },
+    {
+      "month": "2023-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4989.6,
+      "quantity": null
+    },
+    {
+      "month": "2023-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-08-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4819820,
+      "quantity": null
+    },
+    {
+      "month": "2023-08-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-08-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1914,
+      "quantity": null
+    },
+    {
+      "month": "2023-08-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-08-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4470717.38,
+      "quantity": null
+    },
+    {
+      "month": "2023-08-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4987591457972618,
+      "quantity": null
+    },
+    {
+      "month": "2023-08-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2628,
+      "quantity": null
+    },
+    {
+      "month": "2023-08-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-09-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4735020,
+      "quantity": null
+    },
+    {
+      "month": "2023-09-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-09-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3361.6,
+      "quantity": null
+    },
+    {
+      "month": "2023-09-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-09-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3951067.96,
+      "quantity": null
+    },
+    {
+      "month": "2023-09-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4582414732134573,
+      "quantity": null
+    },
+    {
+      "month": "2023-09-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2880,
+      "quantity": null
+    },
+    {
+      "month": "2023-09-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-10-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4552170,
+      "quantity": null
+    },
+    {
+      "month": "2023-10-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-10-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1359.5,
+      "quantity": null
+    },
+    {
+      "month": "2023-10-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399676375404531,
+      "quantity": null
+    },
+    {
+      "month": "2023-10-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3943005.18,
+      "quantity": null
+    },
+    {
+      "month": "2023-10-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4668355599651443,
+      "quantity": null
+    },
+    {
+      "month": "2023-10-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 5947.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-10-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-11-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4342820,
+      "quantity": null
+    },
+    {
+      "month": "2023-11-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-11-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 884.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-11-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2023-11-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3770050.41,
+      "quantity": null
+    },
+    {
+      "month": "2023-11-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4491663024933758,
+      "quantity": null
+    },
+    {
+      "month": "2023-11-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3088,
+      "quantity": null
+    },
+    {
+      "month": "2023-11-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-12-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4439280,
+      "quantity": null
+    },
+    {
+      "month": "2023-12-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2023-12-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 871.2,
+      "quantity": null
+    },
+    {
+      "month": "2023-12-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2023-12-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4076134.06,
+      "quantity": null
+    },
+    {
+      "month": "2023-12-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4614435667191943,
+      "quantity": null
+    },
+    {
+      "month": "2023-12-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 6300,
+      "quantity": null
+    },
+    {
+      "month": "2023-12-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4443520,
+      "quantity": null
+    },
+    {
+      "month": "2024-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 215.6,
+      "quantity": null
+    },
+    {
+      "month": "2024-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2024-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3771898.61,
+      "quantity": null
+    },
+    {
+      "month": "2024-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4250543852096931,
+      "quantity": null
+    },
+    {
+      "month": "2024-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 5212.8,
+      "quantity": null
+    },
+    {
+      "month": "2024-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4143010,
+      "quantity": null
+    },
+    {
+      "month": "2024-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 215.6,
+      "quantity": null
+    },
+    {
+      "month": "2024-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2024-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4147924.62,
+      "quantity": null
+    },
+    {
+      "month": "2024-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4131069854991634,
+      "quantity": null
+    },
+    {
+      "month": "2024-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 5738.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4598810,
+      "quantity": null
+    },
+    {
+      "month": "2024-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 176,
+      "quantity": null
+    },
+    {
+      "month": "2024-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4210572.26,
+      "quantity": null
+    },
+    {
+      "month": "2024-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4703835238444214,
+      "quantity": null
+    },
+    {
+      "month": "2024-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3981.6,
+      "quantity": null
+    },
+    {
+      "month": "2024-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4631140,
+      "quantity": null
+    },
+    {
+      "month": "2024-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 92.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3804589.87,
+      "quantity": null
+    },
+    {
+      "month": "2024-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.439458993651703,
+      "quantity": null
+    },
+    {
+      "month": "2024-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 7444.8,
+      "quantity": null
+    },
+    {
+      "month": "2024-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4823000,
+      "quantity": null
+    },
+    {
+      "month": "2024-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2059.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2024-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4057214.28,
+      "quantity": null
+    },
+    {
+      "month": "2024-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.439008833815204,
+      "quantity": null
+    },
+    {
+      "month": "2024-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1872,
+      "quantity": null
+    },
+    {
+      "month": "2024-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4844200,
+      "quantity": null
+    },
+    {
+      "month": "2024-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 567.6,
+      "quantity": null
+    },
+    {
+      "month": "2024-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4264950.32,
+      "quantity": null
+    },
+    {
+      "month": "2024-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4683547018308325,
+      "quantity": null
+    },
+    {
+      "month": "2024-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 7300.8,
+      "quantity": null
+    },
+    {
+      "month": "2024-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 5191880,
+      "quantity": null
+    },
+    {
+      "month": "2024-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2943.6,
+      "quantity": null
+    },
+    {
+      "month": "2024-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2024-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4507716.04,
+      "quantity": null
+    },
+    {
+      "month": "2024-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4640699937406315,
+      "quantity": null
+    },
+    {
+      "month": "2024-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 792,
+      "quantity": null
+    },
+    {
+      "month": "2024-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-08-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 5182870,
+      "quantity": null
+    },
+    {
+      "month": "2024-08-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-08-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2974.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-08-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-08-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4475150.01,
+      "quantity": null
+    },
+    {
+      "month": "2024-08-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4823940180835101,
+      "quantity": null
+    },
+    {
+      "month": "2024-08-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1368,
+      "quantity": null
+    },
+    {
+      "month": "2024-08-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-09-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4983060,
+      "quantity": null
+    },
+    {
+      "month": "2024-09-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-09-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 6538.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-09-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2024-09-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3729420.66,
+      "quantity": null
+    },
+    {
+      "month": "2024-09-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4292927494658907,
+      "quantity": null
+    },
+    {
+      "month": "2024-09-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1065.6,
+      "quantity": null
+    },
+    {
+      "month": "2024-09-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-10-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4806040,
+      "quantity": null
+    },
+    {
+      "month": "2024-10-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-10-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1460.8,
+      "quantity": null
+    },
+    {
+      "month": "2024-10-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2024-10-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4109956.48,
+      "quantity": null
+    },
+    {
+      "month": "2024-10-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4600477827924637,
+      "quantity": null
+    },
+    {
+      "month": "2024-10-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4723.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-10-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-11-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4629020,
+      "quantity": null
+    },
+    {
+      "month": "2024-11-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-11-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 6516.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-11-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.399999999999999,
+      "quantity": null
+    },
+    {
+      "month": "2024-11-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3969631.17,
+      "quantity": null
+    },
+    {
+      "month": "2024-11-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4582430426009383,
+      "quantity": null
+    },
+    {
+      "month": "2024-11-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2023.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-11-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2024-12-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4581320,
+      "quantity": null
+    },
+    {
+      "month": "2024-12-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2024-12-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 550,
+      "quantity": null
+    },
+    {
+      "month": "2024-12-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2024-12-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3901480.18,
+      "quantity": null
+    },
+    {
+      "month": "2024-12-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4349980577458256,
+      "quantity": null
+    },
+    {
+      "month": "2024-12-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4089.6,
+      "quantity": null
+    },
+    {
+      "month": "2024-12-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4642900.17,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 554.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3952138.75,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4370442547064652,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3880.8,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-01-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 432182.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4180062.3,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 497.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4008218.89,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4865193541104271,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 5220,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-02-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 440338,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4768240.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 255.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3735053.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.422410294224088,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3340.8,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-03-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 419515.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4781956.8,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1496,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4247393.71,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.463559715843607,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4104,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-04-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 435427.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 5022990.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 844.8,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4523609.62,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4827634745748242,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2023.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-05-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 462883.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4999357.5,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 611.6,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4717053.06,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.503786425580998,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 878.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-06-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 466190.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 5272249.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 510.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4975929.12,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.5104229020663396,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1130.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-07-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 856065.6,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 5202983.5,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 475.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4674324.04,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4851782849503438,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 568.8,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-08-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 466190.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4967997,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.5299999573268698,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 382.8,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4594107.08,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.5049889947062031,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1731.6,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-09-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 781404,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4974813.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 114.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4339086.6,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.473203476705636,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2020.2,
+      "quantity": 273
+    },
+    {
+      "month": "2025-10-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-10-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 424476,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4578155.9,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 3788.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4153775.86,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.46614653771569137,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1339.4,
+      "quantity": 181
+    },
+    {
+      "month": "2025-11-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 471681.6,
+      "quantity": null
+    },
+    {
+      "month": "2025-11-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4702075.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 308,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 3949376.94,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.42588046507013577,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Unit Price",
+      "valueRmb": 31.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 412963.2,
+      "quantity": null
+    },
+    {
+      "month": "2025-12-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4003.4,
+      "quantity": 541
+    },
+    {
+      "month": "2025-12-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2026-01-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4663809.2,
+      "quantity": null
+    },
+    {
+      "month": "2026-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 611.6,
+      "quantity": null
+    },
+    {
+      "month": "2026-01-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4432427.71,
+      "quantity": null
+    },
+    {
+      "month": "2026-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2123.8,
+      "quantity": 287
+    },
+    {
+      "month": "2026-01-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-01-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.4770647537842911,
+      "quantity": null
+    },
+    {
+      "month": "2026-01-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 410748,
+      "quantity": null
+    },
+    {
+      "month": "2026-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.53,
+      "quantity": null
+    },
+    {
+      "month": "2026-02-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4268535.2,
+      "quantity": null
+    },
+    {
+      "month": "2026-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 184.8,
+      "quantity": null
+    },
+    {
+      "month": "2026-02-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2294,
+      "quantity": 310
+    },
+    {
+      "month": "2026-02-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4210599.07,
+      "quantity": null
+    },
+    {
+      "month": "2026-02-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.502602066224217,
+      "quantity": null
+    },
+    {
+      "month": "2026-02-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 412932,
+      "quantity": null
+    },
+    {
+      "month": "2026-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 79.2,
+      "quantity": null
+    },
+    {
+      "month": "2026-03-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.65,
+      "quantity": null
+    },
+    {
+      "month": "2026-03-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 5773788.57,
+      "quantity": null
+    },
+    {
+      "month": "2026-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4359745.99,
+      "quantity": 9296320
+    },
+    {
+      "month": "2026-03-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.46897546448487143,
+      "quantity": null
+    },
+    {
+      "month": "2026-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 2012.8,
+      "quantity": 272
+    },
+    {
+      "month": "2026-03-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.3999999999999995,
+      "quantity": null
+    },
+    {
+      "month": "2026-03-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 424476,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 972.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.64,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 5811232.9,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4600126.41,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.51,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 4780.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-04-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 464004.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 853.6,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.65,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 6241600.31,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4735431.6,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.5,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1805.6,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-05-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 459638.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 642.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.65,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 6084730.7,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4828276.81,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.52,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 436.6,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-06-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 474458.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 875.6,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "GYA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 4.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.63,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "GYA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 6289693.7,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Total Cost",
+      "valueRmb": 4995654.13,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "ULA",
+      "category": "Power",
+      "metricType": "Unit Price",
+      "valueRmb": 0.5,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Total Cost",
+      "valueRmb": 1006.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "ULA",
+      "category": "Water",
+      "metricType": "Unit Price",
+      "valueRmb": 7.4,
+      "quantity": null
+    },
+    {
+      "month": "2026-07-01",
+      "site": "ULA",
+      "category": "Demand Power",
+      "metricType": "Total Cost",
+      "valueRmb": 468405.6,
+      "quantity": null
+    }
+  ],
+  "insights": [
+    {
+      "id": "CI-2025-07-01",
+      "month": "2025-07-01",
+      "site": "ULA",
+      "ragStatus": "Red",
+      "title": "Demand charge spike in July",
+      "summary": "ULA demand charge peaked in Jul (≈0.86M RMB), significantly higher than surrounding months."
+    },
+    {
+      "id": "CI-2025-07-02",
+      "month": "2025-07-01",
+      "site": "GYA",
+      "ragStatus": "Amber",
+      "title": "Power cost at local high level",
+      "summary": "GYA power cost in Jul reached local peak (~5.27M RMB) before declining trend."
+    },
+    {
+      "id": "CI-2025-08-01",
+      "month": "2025-08-01",
+      "site": "ULA",
+      "ragStatus": "Green",
+      "title": "Power cost eased after July",
+      "summary": "ULA power cost declined in Aug (~4.67M RMB), easing pressure from July peak."
+    },
+    {
+      "id": "CI-2025-08-02",
+      "month": "2025-08-01",
+      "site": "ULA",
+      "ragStatus": "Amber",
+      "title": "Water cost volatility observed",
+      "summary": "ULA water cost dropped sharply in Aug but remains volatile MoM."
+    },
+    {
+      "id": "CI-2025-09-01",
+      "month": "2025-09-01",
+      "site": "ULA",
+      "ragStatus": "Red",
+      "title": "Demand charge rebounded in Sep",
+      "summary": "ULA demand charge rebounded to ~0.78M RMB in Sep after Aug drop."
+    },
+    {
+      "id": "CI-2025-09-02",
+      "month": "2025-09-01",
+      "site": "GYA",
+      "ragStatus": "Green",
+      "title": "Water cost continued declining",
+      "summary": "GYA water cost continued to decrease, indicating improved efficiency."
+    },
+    {
+      "id": "CI-2025-10-01",
+      "month": "2025-10-01",
+      "site": "ULA",
+      "ragStatus": "Amber",
+      "title": "Power cost reached trough",
+      "summary": "ULA power cost reached lowest level (~4.34M RMB) in Oct."
+    },
+    {
+      "id": "CI-2025-10-02",
+      "month": "2025-10-01",
+      "site": "ULA",
+      "ragStatus": "Red",
+      "title": "Water cost jump in Oct",
+      "summary": "ULA water cost jumped to ~2.02K RMB in Oct and stayed high."
+    },
+    {
+      "id": "CI-2025-11-01",
+      "month": "2025-11-01",
+      "site": "ALL",
+      "ragStatus": "Green",
+      "title": "Power cost stabilized in Nov",
+      "summary": "Both sites showed stabilized power cost levels in Nov."
+    },
+    {
+      "id": "CI-2025-11-02",
+      "month": "2025-11-01",
+      "site": "ULA",
+      "ragStatus": "Amber",
+      "title": "Demand charge moderately increased",
+      "summary": "ULA demand charge increased moderately in Nov (~0.47M RMB)."
+    },
+    {
+      "id": "CI-2025-11-03",
+      "month": "2025-11-01",
+      "site": "GYA",
+      "ragStatus": "Amber",
+      "title": "Water cos increased dramatically",
+      "summary": "GYA water cost increased dramatically as chiller regularly cleaning."
+    },
+    {
+      "id": "CI-2025-12-01",
+      "month": "2025-12-01",
+      "site": "ALL",
+      "ragStatus": "Green",
+      "title": "Year-end power cost stable",
+      "summary": "Power cost closed the year at stable levels for both sites."
+    },
+    {
+      "id": "CI-2025-12-02",
+      "month": "2025-12-01",
+      "site": "ULA",
+      "ragStatus": "Green",
+      "title": "Demand charge reduced vs peaks",
+      "summary": "ULA demand charge in Dec stayed well below mid-year peaks."
+    },
+    {
+      "id": "CI-2026-01-01",
+      "month": "2026-01-01",
+      "site": "GYA",
+      "ragStatus": "Red",
+      "title": "Power unit price increase",
+      "summary": "Power unit price increase almost +26% compared previous unit price.(0.53 to 0.67,PSB plan to  return on Feb or future, the unit price will be still 0.53)"
+    },
+    {
+      "id": "CI-2026-01-02",
+      "month": "2026-01-01",
+      "site": "ULA",
+      "ragStatus": "Green",
+      "title": "Demand charge reduced vs peaks",
+      "summary": "ULA demand charge in Jan stayed well below previous year's peaks."
+    },
+    {
+      "id": "CI-2026-02-01",
+      "month": "2026-02-01",
+      "site": "GYA",
+      "ragStatus": "Amber",
+      "title": "GYA Power unit price back to average",
+      "summary": "GYA power unit price goes back to 0.53 as the pay back from the PSB.(Same as previous average unit Price)"
+    },
+    {
+      "id": "CI-2026-02-02",
+      "month": "2026-02-01",
+      "site": "ULA",
+      "ragStatus": "Green",
+      "title": "Demand charge reduced vs peaks",
+      "summary": "ULA utility water increase from 7.2 to 7.4. (From Oct,2025)"
+    },
+    {
+      "id": "CI-2026-03-01",
+      "month": "2026-03-01",
+      "site": "GYA",
+      "ragStatus": "Amber",
+      "title": "GYA Power unit price back to average",
+      "summary": "GYA power unit price goes back to 0.53 as the pay back from the PSB.(Same as previous average unit Price)"
+    },
+    {
+      "id": "CI-2026-03-02",
+      "month": "2026-03-01",
+      "site": "ULA",
+      "ragStatus": "Green",
+      "title": "Demand charge reduced vs peaks",
+      "summary": "ULA utility water increase from 7.2 to 7.4. (From Oct,2025)"
+    },
+    {
+      "id": "CI-2026-04-01",
+      "month": "2026-04-01",
+      "site": "GYA",
+      "ragStatus": "Amber",
+      "title": "Power unit price increase",
+      "summary": "Power unit price increase almost +23%.(March, from 0.53 to 0.65,will modify after government subsidy)"
+    },
+    {
+      "id": "CI-2026-04-02",
+      "month": "2026-04-01",
+      "site": "ULA",
+      "ragStatus": "Green",
+      "title": "Demand charge reduced vs peaks",
+      "summary": "ULA utility water increase from 7.2 to 7.4. (From Oct,2025)"
+    },
+    {
+      "id": "CI-2026-05-01",
+      "month": "2026-05-01",
+      "site": "GYA",
+      "ragStatus": "Amber",
+      "title": "Power unit price increase",
+      "summary": "GYA Power unit price has increased since 2006/3."
+    },
+    {
+      "id": "CI-2026-06-01",
+      "month": "2026-06-01",
+      "site": "GYA",
+      "ragStatus": "Amber",
+      "title": "Power unit price increase",
+      "summary": "GYA Power unit price has increased since 2006/3."
+    },
+    {
+      "id": "CI-2026-07-01",
+      "month": "2026-07-01",
+      "site": "GYA",
+      "ragStatus": "Amber",
+      "title": "Power unit price increase",
+      "summary": "GYA Power unit price has increased since 2006/3."
+    }
+  ]
+}
