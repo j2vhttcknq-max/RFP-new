@@ -1,0 +1,6150 @@
+{
+  "generatedAt": "2026-08-27T04:54:46.223Z",
+  "source": "PowerCapacityTrend-ENC.dat (GitHub)",
+  "rows": [
+    {
+      "periodMonth": "2026-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2485,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2319,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2017,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2039,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 145,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 82,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2344,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2504,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2036,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2056,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 173,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 75,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2506,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2327,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2006,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2033,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 145,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 82,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2355,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2497,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2035,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2055,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 173,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 75,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2506,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2315,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1989,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2023,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 82,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2350,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2488,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2019,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2043,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 173,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-03-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 74,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2512,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2336,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1996,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2027,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 145,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 80,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2360,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2503,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2017,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2041,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 171,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-02-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 72,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2517,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2353,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1999,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2026,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2367,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2516,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2018,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2040,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 168,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-01-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2527,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2361,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2006,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2030,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2382,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2530,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2032,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2048,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 168,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-12-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2505,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2351,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1999,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2029,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 66,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2364,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2511,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2017,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2044,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 168,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-11-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2506,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2346,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1997,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2029,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 66,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2360,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2512,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2013,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2043,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 168,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-10-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-09-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2491,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2343,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1991,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2020,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 66,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2352,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2505,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2019,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2047,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 167,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-08-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2482,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2338,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1987,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2016,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 145,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 66,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2349,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2496,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2009,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2035,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 168,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2475,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2337,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1988,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2016,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2338,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2486,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2010,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2031,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 168,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2474,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2339,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1991,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2012,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 145,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2340,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2495,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2019,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2035,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 167,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2474,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2339,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1998,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2020,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2343,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2483,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2018,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2036,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 167,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2482,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2338,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1992,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2013,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 145,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2338,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2467,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2010,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2029,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 167,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-03-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 8,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2452,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2321,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1991,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2011,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 8,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 145,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2311,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2471,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2001,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2019,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 167,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2025-02-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2464,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2327,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1986,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2007,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 9,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 144,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2313,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2484,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1994,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2011,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 168,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-12-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2487,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2320,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1995,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2016,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 144,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 64,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2328,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2479,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1975,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1998,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 171,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-11-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2491,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2325,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2003,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2022,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 157,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 74,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2336,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2489,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1945,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1971,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 170,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-10-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2467,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2338,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1959,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1983,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 143,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 64,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2338,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2482,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1939,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1966,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-09-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2451,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2330,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1935,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1956,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 143,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 64,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2327,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2479,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1907,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1927,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-08-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2453,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2326,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1917,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1940,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 142,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 64,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2323,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2469,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1909,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1935,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 201,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 167,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2453,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2326,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1937,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1959,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 143,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 64,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2322,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2470,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1921,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1935,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2411,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2335,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1913,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1899,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 143,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 64,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2285,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2469,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1905,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1884,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2498,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2410,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1913,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1844,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 147,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2280,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2464,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1896,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1869,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2417,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2332,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1851,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1823,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 9,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 142,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 64,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2286,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2464,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1858,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1843,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-03-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2427,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2338,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1812,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1806,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 142,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 64,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2294,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2461,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1835,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1822,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-02-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2442,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2340,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1786,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1784,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 9,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 155,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 74,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2273,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2433,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1817,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1804,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2024-01-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 66,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 9,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2385,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2302,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1795,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1797,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 154,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 73,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2263,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2424,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1815,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1802,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-12-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2373,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2306,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1769,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1772,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 10,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 154,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 70,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2263,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2437,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1781,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1772,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-11-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2382,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2332,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1781,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1775,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 154,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 70,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 5,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2263,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2431,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1726,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1723,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 168,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-10-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2374,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2335,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1688,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1706,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 153,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 70,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2250,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2447,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1673,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1684,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 169,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-09-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 65,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2388,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2352,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1649,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1677,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 152,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 72,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2256,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2446,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1631,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1626,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 177,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-08-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2354,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2354,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1602,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1638,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 152,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 71,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2270,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2449,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1628,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1656,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 177,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2367,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2335,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1611,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1646,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 151,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2264,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2425,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1535,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1421,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 177,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2338,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2324,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1474,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1219,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 152,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 70,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2263,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2418,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1492,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1311,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 177,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2363,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2341,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1650,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1705,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 153,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 72,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2253,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2243,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 1492,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 1352,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 177,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2365,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2296,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 893,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 583,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 150,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2253,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2320,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 177,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-02-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2310,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2208,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 595,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 544,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 150,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2253,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2280,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 177,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2023-01-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2305,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2174,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 149,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2251,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2265,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 176,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-11-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2292,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2160,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 149,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2230,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2232,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 176,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-10-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2224,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2130,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 148,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2219,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2152,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 175,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-08-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 69,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2245,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2132,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 151,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 66,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2248,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 1824,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 175,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2259,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 1869,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 150,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2248,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 1735,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 175,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 67,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2305,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 1875,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 150,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2127,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 1876,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 124,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-05-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 89,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2249,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 1797,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 145,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 70,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2124,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 1779,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 0,
+      "capacityKw": 0
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 124,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2022-04-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 68,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2458,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2322,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2027,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2048,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 146,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 82,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2330,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2504,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2038,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2052,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 172,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-06-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 75,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2454,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2333,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2033,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2057,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "GYA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 147,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "GYA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 81,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH1000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH3000",
+      "usedKw": 2332,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH4000",
+      "usedKw": 2507,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH5000",
+      "usedKw": 2041,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH6000",
+      "usedKw": 2058,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "ULA",
+      "levelType": "DH",
+      "levelName": "DH7000",
+      "usedKw": 6,
+      "capacityKw": 3600
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_N",
+      "usedKw": 172,
+      "capacityKw": 650
+    },
+    {
+      "periodMonth": "2026-07-01",
+      "site": "ULA",
+      "levelType": "Other",
+      "levelName": "Carrier_S",
+      "usedKw": 75,
+      "capacityKw": 650
+    }
+  ]
+}
