@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T01:15:17.485Z",
+  "generatedAt": "2026-09-05T02:47:50.348Z",
   "sources": {
     "list": "GGBM25_List_Unified.xlsx",
     "doc": "GGBM25_Doc_Unified.xlsx",
@@ -2380,25 +2380,6 @@
       "aipoPoc": "Joey",
       "ttPoc": "Zhu Lin",
       "dcoePoc": "Emily"
-    },
-    {
-      "uniqueId": "BM25-GYA-",
-      "site": "GYA",
-      "startWeek": 46213,
-      "startWeekLabel": "7/10/2026",
-      "number": "",
-      "projectType": "",
-      "workName": "",
-      "scopeOfWork": "",
-      "siteWorkStatus": "Last week, the replacement of two fire shutter doors, 9305F and 9306F, was completed, began to rectify 9306 from today, A total of 25 fire shutter doors require rectification: 9 in the data building have been completed, and in",
-      "materialSubmittalNeeded": "",
-      "ifcDrawingNeeded": "",
-      "shopDrawingNeeded": "",
-      "priority": "",
-      "discipline": "",
-      "aipoPoc": "",
-      "ttPoc": "",
-      "dcoePoc": ""
     }
   ],
   "docItems": [
