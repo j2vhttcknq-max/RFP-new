@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-09-05T02:47:50.348Z",
+  "generatedAt": "2026-09-05T03:03:28.122Z",
   "sources": {
     "list": "GGBM25_List_Unified.xlsx",
     "doc": "GGBM25_Doc_Unified.xlsx",
-    "docSheets": []
+    "docSheets": [
+      "Material_Submittal",
+      "Shop_Drawing_Submission",
+      "As_built_Drawing"
+    ]
   },
   "projects": [
     {
