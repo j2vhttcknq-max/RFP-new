@@ -1,12 +1,73 @@
 {
-  "generatedAt": "2026-08-27T23:30:07.039Z",
+  "generatedAt": "2026-09-05T02:38:03.711Z",
   "source": "Procurement_tracker-ENC.dat (GitHub)",
   "sheetName": "Requests",
   "months": [
     "2026-07",
-    "2026-08"
+    "2026-08",
+    "2026-09"
   ],
   "items": [
+    {
+      "id": "rfp-22",
+      "date": "2026-09-01",
+      "month": "2026-09",
+      "projectName": "ULA waste propylene glycol treatment",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "45000",
+      "budgetValue": 45000,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Proceed with contract/award to Inner Mongolia Huisun Environmental Technology Co., Ltd. (内蒙古汇顺环保有限公司) at final bid of 27,200 RMB"
+    },
+    {
+      "id": "rfp-23",
+      "date": "2026-09-01",
+      "month": "2026-09",
+      "projectName": "ULA waste propylene glycol treatment",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "27200",
+      "budgetValue": 27200,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Award to Inner Mongolia Huishun Environmental Protection Co., Ltd. (内蒙古汇顺环保有限公司)"
+    },
+    {
+      "id": "rfp-21",
+      "date": "2026-08-28",
+      "month": "2026-08",
+      "projectName": "2 HMI replacement service of 3301.UPS01 和 0313.UPS01 for ULA site",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "9400",
+      "budgetValue": 9400,
+      "status": "Approved",
+      "statusGroup": "Approved",
+      "nextSteps": "Procure from Schneider"
+    },
+    {
+      "id": "rfp-20",
+      "date": "2026-08-27",
+      "month": "2026-08",
+      "projectName": "ULA hydrogen detectors upgrade, fire dampers repair, and domestic water supply line modification (Combined)",
+      "site": "ULA",
+      "siteTags": [
+        "ULA"
+      ],
+      "budgetRaw": "700000",
+      "budgetValue": 700000,
+      "status": "Approved (Competitive negotiation)",
+      "statusGroup": "Approved",
+      "nextSteps": "Conduct competitive negotiation with Baichuan Jiaying, Vertiv, and Tianjin Huineng; review bidding documents with evaluation team"
+    },
     {
       "id": "rfp-19",
       "date": "2026-08-25",
