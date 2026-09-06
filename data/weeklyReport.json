@@ -1,8 +1,19 @@
 {
-  "generatedAt": "2026-09-06T01:59:44.826Z",
-  "source": "GGBM25_Weekly_Report.xlsx",
+  "generatedAt": "2026-09-06T02:55:47.008Z",
+  "source": "GGBM25_Weekly_Report.xlsx, GGBM26_Weekly_Report.xlsx",
+  "sources": [
+    {
+      "batch": "BM25",
+      "file": "GGBM25_Weekly_Report.xlsx"
+    },
+    {
+      "batch": "BM26",
+      "file": "GGBM26_Weekly_Report.xlsx"
+    }
+  ],
   "submittalRows": [
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -15,6 +26,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -27,6 +39,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -39,6 +52,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -51,6 +65,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -63,6 +78,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -75,6 +91,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -87,6 +104,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -99,6 +117,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -111,6 +130,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -123,6 +143,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -135,6 +156,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -147,6 +169,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -159,6 +182,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -171,6 +195,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -183,6 +208,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -195,6 +221,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -207,6 +234,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -219,6 +247,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -231,6 +260,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -243,6 +273,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -255,6 +286,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -267,6 +299,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -279,6 +312,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -291,6 +325,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -303,6 +338,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -315,6 +351,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -327,6 +364,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -339,6 +377,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -351,6 +390,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -363,6 +403,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -375,6 +416,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -387,6 +429,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -399,6 +442,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -411,6 +455,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -423,6 +468,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -435,6 +481,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -447,6 +494,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -459,6 +507,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -471,6 +520,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -483,6 +533,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -495,6 +546,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -507,6 +559,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -519,6 +572,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -531,6 +585,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -543,6 +598,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -555,6 +611,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -567,6 +624,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -579,6 +637,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -591,6 +650,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -603,6 +663,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -615,6 +676,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -627,6 +689,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -639,6 +702,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -651,6 +715,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -663,6 +728,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -675,6 +741,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -687,6 +754,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -699,6 +767,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -711,6 +780,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -723,6 +793,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -735,6 +806,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -747,6 +819,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -759,6 +832,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -771,6 +845,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -783,6 +858,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -795,6 +871,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -807,6 +884,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -819,6 +897,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -831,6 +910,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -843,6 +923,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -855,6 +936,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -865,10 +947,37 @@
       "approvedForPurchase": 0,
       "rejected": 0,
       "reviewing": 0
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "discipline": "Total",
+      "total": 31,
+      "submitted": 15,
+      "approved": 4,
+      "approvedForPurchase": 4,
+      "rejected": 5,
+      "reviewing": 2
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "discipline": "Total",
+      "total": 27,
+      "submitted": 18,
+      "approved": 5,
+      "approvedForPurchase": 9,
+      "rejected": 1,
+      "reviewing": 3
     }
   ],
   "shopDrawingRows": [
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -880,6 +989,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -891,6 +1001,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -902,6 +1013,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -913,6 +1025,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -924,6 +1037,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -935,6 +1049,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -946,6 +1061,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -957,6 +1073,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -968,6 +1085,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -979,6 +1097,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -990,6 +1109,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1001,6 +1121,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1012,6 +1133,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1023,6 +1145,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1034,6 +1157,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1045,6 +1169,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1056,6 +1181,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1067,6 +1193,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1078,6 +1205,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1089,6 +1217,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1100,6 +1229,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1111,6 +1241,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1122,6 +1253,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1133,6 +1265,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1144,6 +1277,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1155,6 +1289,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1166,6 +1301,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1177,6 +1313,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1188,6 +1325,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1199,6 +1337,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1210,6 +1349,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1221,6 +1361,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1232,6 +1373,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1243,6 +1385,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1254,6 +1397,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1265,6 +1409,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1276,6 +1421,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1287,6 +1433,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1298,6 +1445,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1309,6 +1457,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1320,6 +1469,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1331,6 +1481,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1342,6 +1493,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1353,6 +1505,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1364,6 +1517,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1375,6 +1529,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1386,6 +1541,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1397,6 +1553,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1408,6 +1565,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1419,6 +1577,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1430,6 +1589,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1441,6 +1601,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1452,6 +1613,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1463,6 +1625,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1474,6 +1637,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1485,6 +1649,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1496,6 +1661,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1507,6 +1673,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1518,6 +1685,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1529,6 +1697,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1540,6 +1709,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1551,6 +1721,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1562,6 +1733,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1573,6 +1745,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1584,6 +1757,7 @@
       "reviewing": 0
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1592,11 +1766,36 @@
       "submitted": 3,
       "approved": 2,
       "reviseAndResubmit": 1,
+      "reviewing": 0
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "discipline": "Total",
+      "total": 6,
+      "submitted": 1,
+      "approved": 0,
+      "reviseAndResubmit": 0,
+      "reviewing": 1
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "discipline": "Total",
+      "total": 5,
+      "submitted": 0,
+      "approved": 0,
+      "reviseAndResubmit": 0,
       "reviewing": 0
     }
   ],
   "mainActivityRows": [
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -1606,6 +1805,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -1615,6 +1815,7 @@
       "completionDate": "6/1/2026"
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -1624,6 +1825,7 @@
       "completionDate": "2026/9/25"
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46179,
       "startWeekLabel": "6/6/2026",
@@ -1633,6 +1835,7 @@
       "completionDate": "2026/7/15"
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1642,6 +1845,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1651,6 +1855,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46186,
       "startWeekLabel": "6/13/2026",
@@ -1660,6 +1865,7 @@
       "completionDate": "2026/9/25"
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1669,6 +1875,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1678,6 +1885,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46192,
       "startWeekLabel": "6/19/2026",
@@ -1687,6 +1895,7 @@
       "completionDate": "2026/9/25"
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1696,6 +1905,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1705,6 +1915,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1714,6 +1925,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46199,
       "startWeekLabel": "6/26/2026",
@@ -1723,6 +1935,7 @@
       "completionDate": "2026/9/25"
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1732,6 +1945,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1741,6 +1955,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1750,6 +1965,7 @@
       "completionDate": "2026/9/25"
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1759,6 +1975,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46213,
       "startWeekLabel": "7/10/2026",
@@ -1768,6 +1985,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1777,6 +1995,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1786,6 +2005,7 @@
       "completionDate": "2026/9/25"
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46241,
       "startWeekLabel": "8/7/2026",
@@ -1795,6 +2015,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "GYA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1804,6 +2025,7 @@
       "completionDate": ""
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
@@ -1813,12 +2035,323 @@
       "completionDate": "2026/9/25"
     },
     {
+      "batch": "BM25",
       "site": "ULA",
       "startWeek": 46255,
       "startWeekLabel": "8/21/2026",
       "workNo": "3.1",
       "mainActivities": "ULA fire system-Close fire system cable issues in ULA on CxAlloy of the whole site",
       "status": "Ongoing",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#1",
+      "mainActivities": "PH1 Battery Refresh & Monitoring",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#2",
+      "mainActivities": "Fire Power Module 24v Batteries",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#3",
+      "mainActivities": "Exterior and Interior Wall Repairs for the Site",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#4",
+      "mainActivities": "Cable Tray & Electrical Conduit Rectification",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#5",
+      "mainActivities": "Pre-action Piping",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#6",
+      "mainActivities": "Fuel Oil Day Tank Balancing Valves",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#7",
+      "mainActivities": "Additional MV cable spool",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#8",
+      "mainActivities": "MV Cable Mitigation",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#9",
+      "mainActivities": "Exterior Conduit Fittings",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#10",
+      "mainActivities": "Utility expansion joints",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#11",
+      "mainActivities": "PH1 EPMS & BMS Server Replacement",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#12",
+      "mainActivities": "Outdoor Aerial Lifts",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#13",
+      "mainActivities": "Eyewash Station & Shower Installation",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#14",
+      "mainActivities": "Loading Dock Truck Restraints",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#15",
+      "mainActivities": "TST Fixed Ladder Fall Protection",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "GYA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#16",
+      "mainActivities": "GYA Generator Building Floor Grating",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#1",
+      "mainActivities": "PH1 Battery Refresh & Monitoring",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#2",
+      "mainActivities": "Fire Power Module 24v Batteries",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#3",
+      "mainActivities": "Exterior and Interior Wall Repairs for the Site",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#4",
+      "mainActivities": "Cable Tray & Electrical Conduit Rectification",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#5",
+      "mainActivities": "Pre-action Piping",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#6",
+      "mainActivities": "Fuel Oil Day Tank Balancing Valves",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#7",
+      "mainActivities": "Additional MV cable spool",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#8",
+      "mainActivities": "MV Cable Mitigation",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#9",
+      "mainActivities": "Exterior Conduit Fittings",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#10",
+      "mainActivities": "Utility expansion joints",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#11",
+      "mainActivities": "PH1 EPMS & BMS Server Replacement",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#12",
+      "mainActivities": "Outdoor Aerial Lifts",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#13",
+      "mainActivities": "Eyewash Station & Shower Installation",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#14",
+      "mainActivities": "Loading Dock Truck Restraints",
+      "status": "0%",
+      "completionDate": ""
+    },
+    {
+      "batch": "BM26",
+      "site": "ULA",
+      "startWeek": 46250,
+      "startWeekLabel": "8/16/2026",
+      "workNo": "#15",
+      "mainActivities": "TST Fixed Ladder Fall Protection",
+      "status": "0%",
       "completionDate": ""
     }
   ]
