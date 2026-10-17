@@ -134,6 +134,7 @@
     .voice-button svg { width: 14px; }
     .voice-note { font-size: 10px; color: #97a39c; }
     .modal-actions { display: flex; justify-content: flex-end; gap: 9px; padding-top: 3px; }
+    .danger-button { margin-right: auto; border: 1px solid #f3d4d2; color: var(--red); border-radius: 8px; background: white; padding: 10px 13px; font-size: 11px; }
     .secondary-button { border: 1px solid #e2e8e4; color: #5d6b64; border-radius: 8px; background: white; padding: 10px 13px; font-size: 11px; }
     .detail-content { padding: 20px 22px 22px; }
     .detail-description { color: #607067; font-size: 12px; line-height: 1.7; white-space: pre-wrap; margin: 13px 0 17px; }
@@ -636,9 +637,28 @@
           </div>
           <div class="field"><label for="issuePlace">地点</label><input id="issuePlace" name="place" maxlength="100" value="${escapeHtml(issue.place)}"></div>
           <div class="form-row"><div class="field"><label for="issuePriority">优先级</label><select id="issuePriority" name="priority">${priorityOption("低")}${priorityOption("中")}${priorityOption("高")}</select></div><div class="field"><label for="detailStatus">状态</label><select id="detailStatus" name="status">${statusOption("open", "新建")}${statusOption("progress", "处理中")}${statusOption("done", "已解决")}</select></div></div>
-          <div class="modal-actions"><button type="button" class="secondary-button" id="cancelEdit">取消</button><button class="primary-button" type="submit">保存修改</button></div>
+          <div class="modal-actions"><button type="button" class="danger-button" id="deleteIssue">删除</button><button type="button" class="secondary-button" id="cancelEdit">取消</button><button class="primary-button" type="submit">保存修改</button></div>
         </form>`);
       $("#cancelEdit").addEventListener("click", closeModal);
+      $("#deleteIssue").addEventListener("click", async () => {
+        if (!confirm(`删除「${issue.title}」？删除后会从 GitHub 记录中移除。`)) return;
+        if (!(await ensureToken())) return;
+        const button = $("#deleteIssue");
+        button.disabled = true;
+        button.textContent = "删除中…";
+        try {
+          await commitIssues(issues.filter((item) => item.id !== issue.id), "Delete Site Lens record.");
+          closeModal();
+          toast("记录已从 GitHub 删除");
+        } catch (error) {
+          console.error("Unable to delete SiteLens record.", error);
+          toast(error.message || "删除失败，请重试");
+          if ($("#deleteIssue")) {
+            $("#deleteIssue").disabled = false;
+            $("#deleteIssue").textContent = "删除";
+          }
+        }
+      });
       $("#voiceButton").addEventListener("click", toggleVoice);
       $("#editForm").addEventListener("submit", async (event) => {
         event.preventDefault();
