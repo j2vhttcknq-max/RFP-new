@@ -133,6 +133,9 @@
     .voice-button { border: 1px solid #dce7e0; background: white; color: var(--green); padding: 8px 10px; border-radius: 7px; font-size: 10px; display: inline-flex; align-items: center; gap: 6px; }
     .voice-button svg { width: 14px; }
     .voice-note { font-size: 10px; color: #97a39c; }
+    .photo-row { display: flex; align-items: center; gap: 10px; }
+    .photo-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+    .photo-preview { width: 64px; height: 64px; object-fit: cover; border-radius: 8px; background: #edf2ef; border: 1px solid var(--line); }
     .modal-actions { display: flex; justify-content: flex-end; gap: 9px; padding-top: 3px; }
     .danger-button { margin-right: auto; border: 1px solid #f3d4d2; color: var(--red); border-radius: 8px; background: white; padding: 10px 13px; font-size: 11px; }
     .secondary-button { border: 1px solid #e2e8e4; color: #5d6b64; border-radius: 8px; background: white; padding: 10px 13px; font-size: 11px; }
@@ -257,6 +260,7 @@
   <script>
     let issues = [];
     let recognition = null;
+    let selectedPhoto = null;
     let selectedStatus = "all";
     let selectedProject = "SGP Project";
     const $ = (selector) => document.querySelector(selector);
@@ -504,7 +508,12 @@
     const timeLabel = (value) => new Intl.DateTimeFormat("zh-CN", { hour: "2-digit", minute: "2-digit" }).format(new Date(value));
     function issueRow(issue) {
       const priorityClass = issue.priority === "高" ? "high" : issue.priority === "中" ? "medium" : "";
+      const photo = issue.photos?.[0];
+      const thumb = photo
+        ? `<span class="issue-thumb"><img src="${escapeHtml(photo)}" alt=""></span>`
+        : `<span class="issue-thumb"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="12" cy="12" r="3"/><path d="M8 5l1.5-2h5L16 5"/></svg></span>`;
       return `<button class="issue-row" data-issue-id="${issue.id}">
+        ${thumb}
         <span class="issue-copy">
           <span class="issue-title">${escapeHtml(issue.title)}</span><span class="issue-place">${escapeHtml(issue.project)} · ${escapeHtml(issue.place)}</span>
           <span class="issue-tags"><span class="tag ${priorityClass}">${escapeHtml(issue.priority)}优先级</span><span class="tag ${statusClasses[issue.status]}">${statusNames[issue.status]}</span></span>
@@ -553,8 +562,60 @@
       $(".close-button").addEventListener("click", closeModal);
     }
     function escapeModal(event) { if (event.key === "Escape") closeModal(); }
+    function clearSelectedPhoto() {
+      if (selectedPhoto?.previewUrl) URL.revokeObjectURL(selectedPhoto.previewUrl);
+      selectedPhoto = null;
+    }
+    function photoField(existingUrl) {
+      const preview = existingUrl
+        ? `<img id="photoPreview" class="photo-preview" alt="现场照片" src="${escapeHtml(existingUrl)}">`
+        : `<img id="photoPreview" class="photo-preview" alt="现场照片" hidden>`;
+      return `<div class="field"><label>现场照片</label><div class="photo-row">${preview}<div class="photo-actions"><button type="button" class="voice-button" id="pickPhoto">上传照片</button><button type="button" class="voice-button" id="takePhoto">拍照</button></div></div><input id="photoFile" type="file" accept="image/*" hidden><input id="photoCamera" type="file" accept="image/*" capture="environment" hidden></div>`;
+    }
+    async function preparePhoto(file) {
+      const bitmap = await createImageBitmap(file);
+      const scale = Math.min(1, 1600 / Math.max(bitmap.width, bitmap.height));
+      const width = Math.max(1, Math.round(bitmap.width * scale));
+      const height = Math.max(1, Math.round(bitmap.height * scale));
+      const canvas = document.createElement("canvas");
+      canvas.width = width;
+      canvas.height = height;
+      canvas.getContext("2d").drawImage(bitmap, 0, 0, width, height);
+      bitmap.close?.();
+      const blob = await new Promise((resolve, reject) => canvas.toBlob((result) => result ? resolve(result) : reject(new Error("无法处理照片")), "image/jpeg", 0.82));
+      return { bytes: new Uint8Array(await blob.arrayBuffer()), previewUrl: URL.createObjectURL(blob) };
+    }
+    function bindPhotoControls() {
+      const apply = async (file) => {
+        if (!file) return;
+        if (!file.type.startsWith("image/")) { toast("现场照片必须是图片。"); return; }
+        if (file.size > 20 * 1024 * 1024) { toast("照片不能超过 20MB。"); return; }
+        try {
+          const prepared = await preparePhoto(file);
+          clearSelectedPhoto();
+          selectedPhoto = prepared;
+          const preview = $("#photoPreview");
+          preview.src = prepared.previewUrl;
+          preview.hidden = false;
+        } catch (error) {
+          console.error("Unable to prepare SiteLens photo.", error);
+          toast("这张照片无法处理，请换一张或重新拍摄。");
+        }
+      };
+      $("#pickPhoto").addEventListener("click", () => $("#photoFile").click());
+      $("#takePhoto").addEventListener("click", () => $("#photoCamera").click());
+      $("#photoFile").addEventListener("change", (event) => { apply(event.target.files?.[0]); event.target.value = ""; });
+      $("#photoCamera").addEventListener("change", (event) => { apply(event.target.files?.[0]); event.target.value = ""; });
+    }
+    async function uploadRecordPhoto(recordId) {
+      if (!selectedPhoto) return "";
+      const relativePath = `${recordId}/photo-${Date.now()}.jpg`;
+      await putGithubFile(`Site Lens/source/${relativePath}`, selectedPhoto.bytes, "Add Site Lens photo.");
+      return relativePath;
+    }
     function closeModal() {
       if (recognition) { recognition.stop(); recognition = null; }
+      clearSelectedPhoto();
       $("#modalRoot").innerHTML = "";
     }
     function showCreate() {
@@ -566,12 +627,14 @@
             <div class="voice-row"><button type="button" id="voiceButton" class="voice-button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="2" width="6" height="13" rx="3"/><path d="M5 10v2a7 7 0 0 0 14 0v-2M12 19v3m-4 0h8"/></svg>语音转文字</button><span class="voice-note" id="voiceNote">点击开始语音输入</span></div>
           </div>
           <div class="field"><label for="issuePlace">地点</label><input id="issuePlace" name="place" maxlength="100" placeholder="例如：Building A · Level 2"></div>
+          ${photoField()}
           <div class="field"><label for="issuePriority">优先级</label><select id="issuePriority" name="priority"><option value="低">低</option><option value="中" selected>中</option><option value="高">高</option></select></div>
           <div class="modal-actions"><button type="button" class="secondary-button" id="cancelCreate">取消</button><button class="primary-button" type="submit">保存记录</button></div>
         </form>`);
       $("#cancelCreate").addEventListener("click", closeModal);
       $("#issueForm").addEventListener("submit", saveIssue);
       $("#voiceButton").addEventListener("click", toggleVoice);
+      bindPhotoControls();
       $("#issueTitle").focus();
     }
     function toggleVoice() {
@@ -611,7 +674,9 @@
       submitButton.textContent = "保存中…";
       try {
         const id = crypto.randomUUID();
-        const record = { ...fields, id, recordedBy: "Michael Shi", date: new Date().toISOString(), photoPaths: [], audioPaths: [], photos: [], audios: [] };
+        const relativePath = await uploadRecordPhoto(id);
+        const photoPaths = relativePath ? [relativePath] : [];
+        const record = { ...fields, id, recordedBy: "Michael Shi", date: new Date().toISOString(), photoPaths, audioPaths: [], photos: photoPaths.map((path) => githubFileUrl(`Site Lens/source/${path}`)), audios: [] };
         await commitIssues([record, ...issues], "Add Site Lens record.");
         closeModal();
         toast("记录已提交到 GitHub");
@@ -636,6 +701,7 @@
             <div class="voice-row"><button type="button" id="voiceButton" class="voice-button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="9" y="2" width="6" height="13" rx="3"/><path d="M5 10v2a7 7 0 0 0 14 0v-2M12 19v3m-4 0h8"/></svg>语音转文字</button><span class="voice-note" id="voiceNote">点击开始语音输入</span></div>
           </div>
           <div class="field"><label for="issuePlace">地点</label><input id="issuePlace" name="place" maxlength="100" value="${escapeHtml(issue.place)}"></div>
+          ${photoField(issue.photos?.[0] || "")}
           <div class="form-row"><div class="field"><label for="issuePriority">优先级</label><select id="issuePriority" name="priority">${priorityOption("低")}${priorityOption("中")}${priorityOption("高")}</select></div><div class="field"><label for="detailStatus">状态</label><select id="detailStatus" name="status">${statusOption("open", "新建")}${statusOption("progress", "处理中")}${statusOption("done", "已解决")}</select></div></div>
           <div class="modal-actions"><button type="button" class="danger-button" id="deleteIssue">删除</button><button type="button" class="secondary-button" id="cancelEdit">取消</button><button class="primary-button" type="submit">保存修改</button></div>
         </form>`);
@@ -660,6 +726,7 @@
         }
       });
       $("#voiceButton").addEventListener("click", toggleVoice);
+      bindPhotoControls();
       $("#editForm").addEventListener("submit", async (event) => {
         event.preventDefault();
         const data = new FormData(event.currentTarget);
@@ -678,7 +745,14 @@
         submitButton.disabled = true;
         submitButton.textContent = "保存中…";
         try {
-          const updated = { ...issue, ...fields, photoPaths: [], audioPaths: [], photos: [], audios: [] };
+          let photoPaths = issue.photoPaths || [];
+          let photos = issue.photos || [];
+          if (selectedPhoto) {
+            const relativePath = await uploadRecordPhoto(issue.id);
+            photoPaths = [relativePath];
+            photos = [githubFileUrl(`Site Lens/source/${relativePath}`)];
+          }
+          const updated = { ...issue, ...fields, photoPaths, photos, audioPaths: issue.audioPaths || [], audios: issue.audios || [] };
           await commitIssues(issues.map((item) => item.id === issue.id ? updated : item), "Update Site Lens record.");
           closeModal();
           toast("修改已提交到 GitHub");
