@@ -238,7 +238,7 @@
 
     <section class="feed">
       <div class="feed-heading">
-        <div><h1>现场记录</h1><p><span id="issueCount">0</span> 条记录 · <span id="dataSource">正在读取 GitHub</span></p></div>
+        <div><h1>现场记录</h1><p><span id="issueCount">0</span> 条记录</p></div>
         <button class="primary-button" id="newIssueButton">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12h14"/></svg>记录
         </button>
@@ -533,7 +533,6 @@
       }
       try {
         issues = await loadGithubIssues();
-        $("#dataSource").textContent = "数据来自 GitHub";
         render();
       } catch (error) {
         console.error("Unable to load SiteLens records from GitHub.", error);
@@ -542,7 +541,6 @@
           const result = await response.json();
           if (!response.ok) throw new Error(result.error || "无法读取现场记录。");
           issues = result.issues || [];
-          $("#dataSource").textContent = result.source === "github" ? "数据来自 GitHub" : "数据来自本机";
           render();
         } catch (fallbackError) {
           console.error("Unable to load SiteLens records from the local service.", fallbackError);
