@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2,
+    "username": "michaelshi",
+    "description": "Day 1",
+    "createdAt": "2026-10-21T02:54:38.508Z",
+    "updatedAt": "2026-10-21T02:54:38.508Z",
+    "photos": [
+      {
+        "id": 1,
+        "name": "IMG_3286.jpeg",
+        "path": "photos/2-1792551278509-0.jpeg",
+        "mime": "image/jpeg",
+        "createdAt": "2026-10-21T02:54:38.509Z"
+      }
+    ]
+  }
+]
